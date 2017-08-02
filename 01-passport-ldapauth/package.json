@@ -1,0 +1,17 @@
+{
+  "name": "01-passport-ldapauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "passport": "^0.3.2",
+    "passport-ldapauth": "^2.0.0"
+  }
+}
