@@ -1,0 +1,1 @@
+- [Sequelize](https://www.youtube.com/playlist?list=PL5ze0DjYv5DYBDfl0vF_VRxEu8JdTIHlR)
